@@ -1,0 +1,3 @@
+rootProject.name = 'jiza_app'
+
+include ':app'
